@@ -1,5 +1,33 @@
 # Number-Guessing-Game
+
+## Run Locally
+
+#### Clone the project
+
+```bash
+  git clone https://github.com/husaina72/NumberGuessing.git
 ```
+
+#### Go to the project directory
+
+```bash
+  cd NumberGuessing
+```
+
+#### Compile Java Source Code Into Bytecode Class Files
+
+```bash
+  javac NumberGuessing.java
+```
+
+#### Execute The Compiled Java Program
+
+```bash
+  java NumberGuessing
+```
+
+## Code
+```java
 import javax.swing.*;
 
 public class NumberGuessing {
